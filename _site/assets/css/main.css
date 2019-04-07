@@ -725,9 +725,9 @@ blockquote {
 
 /* links */
 a:visited {
-  color: #5197ad; }
+  color: #db9db4; }
 a:hover {
-  color: #266477;
+  color: #f9a7c0;
   outline: 0; }
 
 /* buttons */
@@ -829,7 +829,7 @@ figcaption {
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out; }
     figcaption a:hover {
-      color: #266477; }
+      color: #db9db4; }
 
 /* Fix IE9 SVG bug */
 svg:not(:root) {
@@ -1450,7 +1450,7 @@ th {
   .notice a {
     color: #bdc1c4; }
     .notice a:hover {
-      color: #717476; }
+      color: #db9db4; }
   .notice code {
     background-color: #fcfcfc; }
   .notice ul:last-child {
@@ -1488,7 +1488,7 @@ th {
   .notice--primary a {
     color: #6f777d; }
     .notice--primary a:hover {
-      color: #43474b; }
+      color: #db9db4; }
   .notice--primary code {
     background-color: #f8f8f9; }
   .notice--primary ul:last-child {
@@ -1526,7 +1526,7 @@ th {
   .notice--info a {
     color: #3b9cba; }
     .notice--info a:hover {
-      color: #235e70; }
+      color: #db9db4; }
   .notice--info code {
     background-color: #f5fafc; }
   .notice--info ul:last-child {
@@ -1797,7 +1797,7 @@ th {
       border: 1px solid #b6b6b6;
       border-radius: 0; }
       .pagination li a:hover {
-        color: #266477; }
+        color: #db9db4; }
       .pagination li a.current, .pagination li a.current.disabled {
         color: #fff;
         background: #6f777d; }
@@ -1866,10 +1866,10 @@ th {
   .greedy-nav a {
     display: block;
     margin: 0 1rem;
-    color: #6f777d;
+    color: #db9db4;
     text-decoration: none; }
     .greedy-nav a:hover {
-      color: #53595e; }
+      color:#db9db4; }
     .greedy-nav a.site-logo {
       margin-left: 0;
       margin-right: 0.5rem; }
@@ -1906,7 +1906,7 @@ th {
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #6f777d;
+        background: #db9db4;
         width: 100%;
         -webkit-transition: all 0.2s ease-in-out;
         transition: all 0.2s ease-in-out;
